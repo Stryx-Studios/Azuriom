@@ -1,6 +1,6 @@
 <p align="center"><img src="https://azuriom.com/assets/svg/logo-text.svg" width="400" alt="Azuriom"></p>
 
-# Azuriom
+# Azuriom (Stryx Fork)
 
 [![Build Status](https://img.shields.io/github/workflow/status/Azuriom/Azuriom/PHP%20CI?style=flat-square)](https://github.com/Azuriom/Azuriom/actions)
 [![Code Quality](https://img.shields.io/scrutinizer/quality/g/Azuriom/Azuriom?style=flat-square)](https://scrutinizer-ci.com/g/Azuriom/Azuriom/)
